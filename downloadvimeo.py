@@ -2,7 +2,7 @@
 
 import yt_dlp
 
-url = "https://player.vimeo.com/video/861371434"
+url = ""
 
 ydl_opts = {
     'cookiefile': None,           # None = usa cookies do navegador padrão
